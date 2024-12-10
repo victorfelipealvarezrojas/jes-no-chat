@@ -1,0 +1,24 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`ChatMessages > snapshot correctly  1`] = `
+"<div class="flex-1 overflow-y-auto p-4">
+  <div class="flex flex-col space-y-2">
+    <!-- Messages go here -->
+    <!-- Example Message -->
+    <div class="flex justify-end">
+      <div class="bg-blue-200 text-black p-2 rounded-lg max-w-xs">Hello shiao</div>
+    </div><!-- Messages go here -->
+    <!-- Example Message -->
+    <!-- Example Received Message -->
+    <div class="flex">
+      <div class="bg-gray-300 text-black p-2 rounded-lg max-w-xs"><span class="capitalize">World plop</span>
+        <!--v-if-->
+      </div>
+    </div><!-- Messages go here -->
+    <!-- Example Message -->
+    <div class="flex justify-end">
+      <div class="bg-blue-200 text-black p-2 rounded-lg max-w-xs">Hello World</div>
+    </div>
+  </div>
+</div>"
+`;
